@@ -5,7 +5,6 @@
  * Another cases, shows 0
  *
  * @c: The character in ASCII code
- *
  * Return: 1 fr letters. 0 for the rest.
  */
 int _isalpha(int c)
