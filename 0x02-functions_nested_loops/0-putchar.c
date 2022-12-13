@@ -1,4 +1,4 @@
-#include "main.h"
+#include "stdio.h"
 
 /**
  * main - Prints main as a message.]
@@ -14,6 +14,6 @@ int main(void)
 	{
 		_putchar('\n');
 	}
-	_putchar('\n');
-	return (o);
+        _putchar('\n');
+	return 0;
 }
