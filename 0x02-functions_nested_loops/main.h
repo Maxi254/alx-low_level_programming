@@ -9,6 +9,6 @@ int _isalpha(int c);
 int print_sign(int n);
 nt _abs(int);
 void print_alphabet(void);
-nt _abs(int);
+int _abs(int);
 
 #endif
