@@ -1,7 +1,7 @@
-#include "main.h""
+#include "main.h"
 
 /**
- * print number - prints an integer.
+ * print_number - prints an integer.
  * @n: input integer.
  * Return: no return.
  */
@@ -14,7 +14,7 @@ void  print_number(int n)
 		_putchar(45);
 		m = nn * -1;
 	}
-	else 
+	else
 	{
 		m = n;
 	}
