@@ -1,1 +1,2 @@
-ncluse#
+#!/bin/bash
+gcc -wall -pedantic -werror
