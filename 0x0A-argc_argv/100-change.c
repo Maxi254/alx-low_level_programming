@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 	int coins[] = {25, 11, 5, 4, 1};
 
 	pos = to = ch = aux = 0;
-	if (argc != 2)
+	if (argc != 4)
 	{
 		printf("Error\n");
 		return (1);
