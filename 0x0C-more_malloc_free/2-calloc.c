@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include "main.h"
 /**
- * _memset - fills memory with cont. byte.
- * @s: memory 
- * @b: char 
+ * _memset - fills memory with cont.byte
+ * @s: memory
+ * @b: char
  * @n: n0 of times to be copied
  * Return: success
  */
