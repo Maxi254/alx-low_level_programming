@@ -5,7 +5,7 @@
  * @d: struct dog
  */
 
-void free_dog(dog_t *d)
+void free_dog(my_dog *d)
 {
 	if (d)
 	{
