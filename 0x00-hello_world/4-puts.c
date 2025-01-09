@@ -1,8 +1,10 @@
 #include <stdio.h>
 /*
- * main - Entry point
+ * main - Entry point of the program
  *
- * Return - zero(0)
+ * @brief: This function prints a string to the standard output
+ *
+ * Return: zero(0)success
  */
 
 int main(void)
