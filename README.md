@@ -1,1 +1,3 @@
-This is my repo, trying to give myself a give a chance
+Just practising and trying to master some low level programming
+lets see how this goes.
+
