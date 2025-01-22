@@ -6,7 +6,7 @@
  * return: success(0)
  */
 
-int main()
+int main(void)
 {
 	int i;
 
@@ -16,6 +16,7 @@ int main()
 		if (i != 9)
 		{
 			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
