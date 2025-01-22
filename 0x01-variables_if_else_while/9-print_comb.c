@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * Main - entry point of the program
+ * main - prints out digits 0-9 separated by ','
  *
- * return: success(0)
+ * return value: success(0)
  */
 
 int main(void)
 {
 	int i;
 
-	for (i = 1; i <= 9; i++)
+	for (i = 0; i <= 9; i++)
 	{
 		putchar(i + '0');
 		if (i != 9)
